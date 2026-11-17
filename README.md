@@ -23,6 +23,7 @@ Combines technical understanding with a strong foundation in instructional conte
 An independent portfolio project demonstrating the development of a structured technical proposal for a fictional maritime mission support system.
 
 **Skills demonstrated:**
+
 - Technical proposal development
 - Customer requirements analysis
 - Compliance matrices and requirements traceability
@@ -30,7 +31,7 @@ An independent portfolio project demonstrating the development of a structured t
 - System architecture and workflow diagrams
 - Document review and revision control
 
-[View Project](01-babcock-technical-writing/README.md)
+[View GitHub Repository](https://github.com/dogra9027-png/babcock-technical-writing-portfolio)
 
 ### 2. Linux Technical Documentation
 
@@ -39,13 +40,14 @@ An independent portfolio project demonstrating the development of a structured t
 A documentation project covering Linux administration and troubleshooting, using Sphinx, reStructuredText, Git, and GitHub Actions.
 
 **Skills demonstrated:**
+
 - Structured technical documentation
 - Linux administration guidance
 - Troubleshooting procedures
 - Documentation generation with Sphinx
 - Git and GitHub workflows
 
-[View Project](02-linux-technical-documentation/README.md) | [View Published Documentation](https://dogra9027-png.github.io/linux-technical-documentation/)
+[View GitHub Repository](https://github.com/dogra9027-png/linux-technical-documentation) | [View Published Documentation](https://dogra9027-png.github.io/linux-technical-documentation/)
 
 ### 3. SecureVault Documentation
 
@@ -54,13 +56,14 @@ A documentation project covering Linux administration and troubleshooting, using
 A structured documentation project covering a fictional secure application, including user, administrator, developer, API, authentication, security, and troubleshooting documentation.
 
 **Skills demonstrated:**
+
 - User and administrator documentation
 - Developer and API documentation
 - Authentication and security concepts
 - Technical explanations and troubleshooting
 - Documentation organization
 
-[View Project](03-securevault-documentation/README.md) | [View Published Documentation](https://dogra9027-png.github.io/securevault-documentation/)
+[View GitHub Repository](https://github.com/dogra9027-png/SecureVault-Documentation) | [View Published Documentation](https://dogra9027-png.github.io/securevault-documentation/)
 
 ### 4. AI-Assisted Technical Documentation Workflow
 
@@ -69,6 +72,7 @@ A structured documentation project covering a fictional secure application, incl
 A practical documentation project using a fictional enterprise IT operations platform, Nexus, to demonstrate how product specifications can be transformed into user-facing documentation through an AI-assisted workflow and human review.
 
 **Skills demonstrated:**
+
 - Product specifications and functional requirements analysis
 - Requirements traceability
 - Documentation style guides and terminology management
@@ -80,11 +84,12 @@ A practical documentation project using a fictional enterprise IT operations pla
 
 **Practical demonstration:** An Alert Management User Guide developed from source specifications, with a preserved initial AI draft, a human-edited version, and a documented review record.
 
-[View Project](04-ai-assisted-documentation/README.md)
+[View GitHub Repository](https://github.com/dogra9027-png/ai-assisted-technical-documentation)
 
 ## Core Skills
 
 ### Technical Documentation
+
 - User guides and technical guides
 - Installation and configuration instructions
 - Troubleshooting documentation
@@ -93,6 +98,7 @@ A practical documentation project using a fictional enterprise IT operations pla
 - Operational procedures and knowledge resources
 
 ### Content and Instructional Development
+
 - Technical learning materials
 - Instructional content and video scripts
 - Documentation style guides
@@ -101,6 +107,7 @@ A practical documentation project using a fictional enterprise IT operations pla
 - Audience-focused writing and information organization
 
 ### Documentation Processes
+
 - Requirements analysis and traceability
 - Information architecture and content organization
 - Editorial and technical review
@@ -109,6 +116,7 @@ A practical documentation project using a fictional enterprise IT operations pla
 - AI-assisted drafting and human validation
 
 ### Tools and Technologies
+
 - Markdown, Git, GitHub, and Visual Studio Code
 - Sphinx and reStructuredText
 - diagrams.net / draw.io
