@@ -95,6 +95,7 @@ A concise technical documentation sample for a fictional IT operations platform.
 - Troubleshooting guidance
 
 **Tools:** Markdown, GitHub, Visual Studio Code
+
 [View Project](https://github.com/dogra9027-png/it-operations-monitoring-guide)
 
 ## Core Skills
