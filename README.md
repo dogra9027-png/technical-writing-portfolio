@@ -86,7 +86,7 @@ A practical documentation project using a fictional enterprise IT operations pla
 
 [View GitHub Repository](https://github.com/dogra9027-png/ai-assisted-technical-documentation)
 
-### 05. [IT Operations Monitoring Guide](https://github.com/dogra9027-png/it-operations-monitoring-guide)
+### 05. IT Operations Monitoring Guide
 
 A concise technical documentation sample for a fictional IT operations platform.
 
@@ -95,6 +95,7 @@ A concise technical documentation sample for a fictional IT operations platform.
 - Troubleshooting guidance
 
 **Tools:** Markdown, GitHub, Visual Studio Code
+[View Project](https://github.com/dogra9027-png/it-operations-monitoring-guide)
 
 ## Core Skills
 
